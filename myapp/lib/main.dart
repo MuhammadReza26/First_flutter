@@ -98,7 +98,7 @@ class NextScreen extends StatelessWidget {
             ),
             const SizedBox(height: 20),
             const Text(
-              'Tempat favorit',
+              'Gambar favorit',
               style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
             ),
             const SizedBox(height: 20),
